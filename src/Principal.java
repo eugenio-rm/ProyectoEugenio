@@ -8,6 +8,9 @@ public class Principal {
 		//para la asignatura de ticII   
 		
 		
+		
+		
+		
 	}
 
 }
